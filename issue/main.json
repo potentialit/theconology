@@ -1,6 +1,6 @@
 [
   {
-    "issue": 01,
+    "issue":01,
     "attributes": {
       "name": "Econology",
       "imageUrl": "https://cdn.jsdelivr.net/gh/potentialit/theconology@master/images/Econology_issue1_-images-0.jpg",
@@ -11,7 +11,7 @@
     }
   },
   {
-    "issue": 02,
+    "issue":02,
     "attributes": {
       "name": "Econology",
       "imageUrl": "https://cdn.jsdelivr.net/gh/potentialit/theconology@master/images/Econology_issue1_-images-0.jpg",
