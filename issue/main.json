@@ -12,7 +12,7 @@
           { "text": "Content-2", "url": "https://example.com/2" }
         ],
         "publishedAt": "2025-02-05",
-        "pdflink": "https://www.foodmanufacturing.com/news/1"
+        "pdflink": "https://drive.google.com/file/d/1IcMUDmNgDmtScuiq3GUbqDGciqe3colV/view"
       }
     },
     {
@@ -26,7 +26,7 @@
           { "text": "Content-2", "url": "https://example.com/4" }
         ],
         "publishedAt": "2025-04-05",
-        "pdflink": "https://www.foodmanufacturing.com/news/2"
+        "pdflink": "https://drive.google.com/file/d/1I_MvS1nKPum6ok_Hee8MXgJrI7gaK0UH/view"
       }
     }
   ]
