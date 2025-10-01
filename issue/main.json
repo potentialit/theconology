@@ -1,18 +1,18 @@
 {
-  "buylink": "https://buy.example.com/eco-issue",
+  "buylink": "https://www.theconology.com/",
   "issues": [
     {
-      "issue": 1,
+      "issue": 3,
       "attributes": {
         "name": "Econology",
-        "imageUrl": "https://cdn.jsdelivr.net/gh/potentialit/theconology@master/images/Econology_issue1_-images-0.jpg",
-        "title": "THE ELEPHANT IN THE ROOM",
+        "imageUrl": "https://cdn.jsdelivr.net/gh/potentialit/theconology@master/images/issue3final-images-0.jpg",
+        "title": "Revolution Continues",
         "content": [
           { "text": "Content-1", "url": "https://example.com/1" },
           { "text": "Content-2", "url": "https://example.com/2" }
         ],
-        "publishedAt": "2025-02-05",
-        "pdflink": "https://drive.google.com/file/d/1IcMUDmNgDmtScuiq3GUbqDGciqe3colV/view"
+        "publishedAt": "2025-01-10",
+        "pdflink": "https://drive.google.com/file/d/1aOd_c_LZaCb8_TOVnlVMRstPFtX8-iV9/view"
       }
     },
     {
@@ -28,6 +28,20 @@
         "publishedAt": "2025-04-05",
         "pdflink": "https://drive.google.com/file/d/1I_MvS1nKPum6ok_Hee8MXgJrI7gaK0UH/view"
       }
-    }
+    },
+    {
+      "issue": 1,
+      "attributes": {
+        "name": "Econology",
+        "imageUrl": "https://cdn.jsdelivr.net/gh/potentialit/theconology@master/images/Econology_issue1_-images-0.jpg",
+        "title": "THE ELEPHANT IN THE ROOM",
+        "content": [
+          { "text": "Content-1", "url": "https://example.com/1" },
+          { "text": "Content-2", "url": "https://example.com/2" }
+        ],
+        "publishedAt": "2025-02-05",
+        "pdflink": "https://drive.google.com/file/d/1IcMUDmNgDmtScuiq3GUbqDGciqe3colV/view"
+      }
+    }    
   ]
 }
